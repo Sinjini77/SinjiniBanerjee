@@ -66,7 +66,7 @@ p + p {
  * Quotes & Blockquotes
  */
 q {
-  quotes: '\000000' '\000000';
+  quotes: '\FFFFFF' '\FFFFFF';
 }
 q:before {
   content: open-quote;
