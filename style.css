@@ -11,7 +11,7 @@ body {
   line-height: 1.6;
   font-weight: 400;
   font-family: "Roboto", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #000000;
+  color: #FFFFFF;
 }
 
 /**
@@ -76,7 +76,7 @@ q:after {
 }
 
 blockquote {
-  /*background-color: #000000;*/
+  /*background-color: #F8F8F8;*/
   border-left: 2px solid #AFC0D2;
   margin: 1.6em 10%;
   padding: .75em 1em;
@@ -103,7 +103,7 @@ body {
 header, #content, footer { 
   background: rgba(0,0,0,.8); 
   padding:25px;
-  color:#000000; 
+  color:#FFFFFF; 
 }
 
 /* Menu Links */
