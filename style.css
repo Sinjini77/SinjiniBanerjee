@@ -97,8 +97,8 @@ html {
   background-size:cover;
 }
 body {
-  max-width:100px;
-  margin:50px auto;
+  max-width:1000px;
+  margin:32px auto;
 }
 header, #content, footer { 
   background: rgba(255,255,255,.8); 
